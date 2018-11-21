@@ -1,0 +1,139 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+
+        /* Product #1 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Big Widow is a nearly 50/50 Hybrid that is sure to deliver a satisfying blend of euphoria, body high, and energy. A cross between Big Bud and White Widow, this smoke is guaranteed to have you in your prime stoney state. With the unique parents, this bud is excellent for treating a vast variety of symptoms, especially depression.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/db/6b/3ad55e226aba9d70b273e192bc887993.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Big Widow",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086"
+            },
+            "position": "1",
+            "sku": "Big Widow",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #1 end */
+        /* Product #2 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.1",
+                "reviewCount": "4"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Our Blue Dream phenotype produces an Indica-like high without the heavy sedative effect. The sweet berry aroma and heavy trichome production make it a top rated strain in the cannabis community.",
+            "image": "https://api.mmjitsu.com/storage/images/22/44/b666cbc66cfe22653a4209f23dbdc390.jpeg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Blue Dream",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream"
+            },
+            "position": "2",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Ellie",
+                    "datePublished": "2011-04-01",
+                    "description": "The lamp burned out and now I have to replace it.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Blue Dream",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        }
+        /* Product #2 end */
+    ],
+    "numberOfItems": "76",
+    "url": "https://silverstemcannabis.com/cannabis-products/flower"
+}
+</script>

@@ -1,0 +1,186 @@
+<script type="application/ld+json"> 
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+        "Pharmacy",
+        "CollectionPage"
+    ],
+    "name": "Silver Steam Cannabis Products",
+    "alternateName": "Cannabis Products Catalogue",
+    "url": "https://silverstemcannabis.com/cannabis-products/full-menu",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://silverstemcannabis.com/",
+    "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "image": "https://silverstemcannabis.com/uploads/gallery/2018/08/3139fbf5a2e6af7726dd4819057266c2/5b7fbfee3d4c9365988239.jpeg",
+    "description": "Cannabis menu medical recreational dispensaries Colorado Oregon",
+    "telephone": "+810(303) 720-627-5091",
+    "priceRange": "7-60$",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1086 W Littleton Blvd",
+        "addressLocality": "Littleton",
+        "addressRegion": "Colorado",
+        "postalCode": "80120",
+        "addressCountry": "USA"
+    },
+    "significantLinks": [
+        "https://silverstemcannabis.com/cannabis-products/full-menu",
+        "https://silverstemcannabis.com/dispensaries",
+        "https://silverstemcannabis.com/news-articles",
+        "https://silverstemcannabis.com/specials",
+        "https://silverstemcannabis.com/loyalty-program",
+        "https://silverstemcannabis.com/order-now"
+    ],
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "name": "Silver Stem Page Rating",
+        "reviewCount": 439,
+        "ratingValue": 91,
+        "bestRating": 100,
+        "worstRating": 1
+    },
+    "mainContentOfPage": [
+        {
+            "@context": "http://schema.org",
+            "@type": [ "ItemList", "WebPageElement" ],
+            "url": "https://silverstemcannabis.com/cannabis-products/full-menu",
+            "numberOfItems": "9",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "/cannabis-products/flower",
+                        "@type": "CollectionPage",
+                        "name": "Marijuana Strains",
+                        "alternateName": "Marijuana Flowers",
+                        "url": "https://silverstemcannabis.com/cannabis-products/flower",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Our flower is created with love, grown in soil, and hand-trimmed to deliver the finest product"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "/cannabis-products/indica",
+                        "@type": "CollectionPage",
+                        "name": "Indica",
+                        "alternateName": "Indica Strains",
+                        "url": "https://silverstemcannabis.com/cannabis-products/indica",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Cannabis Indica Strains"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "/cannabis-products/sativa",
+                        "@type": "CollectionPage",
+                        "name": "Sativa",
+                        "alternateName": "Sativa Strains",
+                        "url": "https://silverstemcannabis.com/cannabis-products/sativa",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Cannabis Sativa Strains"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@id": "/cannabis-products/hybrid",
+                        "@type": "CollectionPage",
+                        "name": "Hybrid",
+                        "alternateName": "Hybrid Strains",
+                        "url": "https://silverstemcannabis.com/cannabis-products/hybrid",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Cannabis Hybrid Strains"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@id": "/cannabis-products/concentrates",
+                        "@type": "CollectionPage",
+                        "name": "Concentrates",
+                        "alternateName": "Cannabis Concentrates",
+                        "url": "https://silverstemcannabis.com/cannabis-products/concentrates",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Variety of meticulously selected concentrates including wax, shatter, resin, oil, and others"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@id": "/cannabis-products/edibles",
+                        "@type": "CollectionPage",
+                        "name": "Marijuana Edibles",
+                        "alternateName": "Cannabis Edibles Products",
+                        "url": "https://silverstemcannabis.com/cannabis-products/edibles",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Best edibles from handpicked manufacturers – enjoy drinks, confectionery, baked products, lollipops, and much more"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@id": "/cannabis-products/vaporize-cartridges",
+                        "@type": "CollectionPage",
+                        "name": "Vape",
+                        "alternateName": "Cannabis Vape Products",
+                        "url": "https://silverstemcannabis.com/cannabis-products/vaporize-cartridges",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Vaporizers and cartridges filled with the finest flower out there"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@id": "/cannabis-products/topicals",
+                        "@type": "CollectionPage",
+                        "name": "Cannabis Topicals",
+                        "alternateName": "Cannabis Topicals Products",
+                        "url": "https://silverstemcannabis.com/cannabis-products/topicals",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "For those who want to enjoy cannabis through application of salves, lotions, creams, skin patches and massage oils"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@id": "/cannabis-products/accessories-n-merchandise",
+                        "@type": "CollectionPage",
+                        "name": "Apparel & Accessories",
+                        "alternateName": "Apparel & Accessories",
+                        "url": "https://silverstemcannabis.com/cannabis-products/accessories-n-merchandise",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/cannabis-products/full-menu",
+                        "description": "Everything you need for consuming cannabis – the best rigs, torches, hemp wicks, lighters, grinders, and so much more plus our exclusive and creative apparel"
+                    }
+                }
+            ]
+        }
+    ]
+}
+</script>

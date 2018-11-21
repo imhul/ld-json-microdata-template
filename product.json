@@ -1,0 +1,103 @@
+<script type="application/ld+json">
+{
+            "@type": [ "Product" ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": 4.1,
+                "reviewCount": 4
+            },
+            "audience": {
+                "@type": "PeopleAudience",
+                "requiredMinAge": 18,
+                "suggestedMinAge": 18,
+                "geographicArea": "Colorado"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Big Widow is a nearly 50/50 Hybrid that is sure to deliver a satisfying blend of euphoria, body high, and energy. A cross between Big Bud and White Widow, this smoke is guaranteed to have you in your prime stoney state. With the unique parents, this bud is excellent for treating a vast variety of symptoms, especially depression.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/db/6b/3ad55e226aba9d70b273e192bc887993.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Big Widow",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086"
+            },
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Ellie",
+                    "datePublished": "2011-04-01",
+                    "description": "The lamp burned out and now I have to replace it.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Big Widow",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086",
+            /* Если есть вес */
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ],
+            "additionalProperty": [
+                /* Общий блок */
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q2845",
+                    "name": "hybrid strain", /* указать hybrid strain, sativa strain or indica strain */
+                    "value": "Big Widow" /* только название сорта */
+                },
+                /* Если есть побочные эффекты */
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Property:P1909",
+                    "name": "Negatives",
+                    "value": "Super Cotton Mouth, Dry/Red Eyes, Mild Paranoia" /* только названия эффектов */
+                },
+                /* Если индика, заполнить этот блок */
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q2936421",
+                    "name": "Cannabis indica",
+                    "value": "Big Widow" /* только название сорта */
+                },
+                /* Если сатива, заполнить этот блок */
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q79817",
+                    "name": "Cannabis sativa",
+                    "value": "Big Widow" /* только название сорта */
+                },
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                    "unitText": "percent",
+                    "unitCode": "%",
+                    "name": "THC",
+                    "value": "13"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                    "unitText": "percent",
+                    "unitCode": "%",
+                    "name": "CBD",
+                    "value": "0"
+                }
+            ]
+        }
+</script>

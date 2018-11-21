@@ -1,0 +1,359 @@
+<script type="application/ld+json">
+/* Main Accessories Category */
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "WebPage",
+        "ItemList"
+    ],
+    "numberOfItems": "7",
+    "name": "Accessories & Merchandise",
+    "url": "https://silverstemcannabis.com/cannabis-products/accessories-n-merchandise",
+    "description": "In the exciting world of cannabis accessories, we make sure to carry the best. Whether you are looking for a pipe, vaporizer, screen, lighter, or any other accessories, we carry it.",
+    "itemListElement": [
+        /* Subcategory #1 Apparel */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Apparel",
+            "position": 1,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/apparel/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/apparel/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/apparel"
+        },
+        /* Subcategory #2 Lighter */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Lighter",
+            "position": 2,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/lighters/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/lighters/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/lighters"
+        },
+        /* Subcategory #3 Other */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Other",
+            "position": 3,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/other/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/other/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/other"
+        },
+        /* Subcategory #4 Papers */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Papers",
+            "position": 4,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/papers/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/papers/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/papers"
+        },
+        /* Subcategory #5 Pipes */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Pipes",
+            "position": 5,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/pipes/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/pipes/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/pipes"
+        },
+        /* Subcategory #6 Vaporizers */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Vaporizers",
+            "position": 6,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/vaporizers/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/vaporizers/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/vaporizers"
+        },
+        /* Subcategory #7 Vaporize Batteries */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Vaporize Batteries",
+            "position": 7,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/batteries/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/batteries/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/batteries"
+        }
+    ]
+}
+</script>

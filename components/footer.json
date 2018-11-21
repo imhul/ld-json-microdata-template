@@ -1,0 +1,47 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "WPFooter",
+    "about": {
+        "type": "WebPage",
+        "name": "Silver Stem",
+        "url": "https://silverstemcannabis.com/"
+    },
+    "potentialAction": {
+        "@type": "Action",
+        "actionStatus": "PotentialActionStatus",
+        "result": {
+            "@type": "SubscribeAction",
+            "name": "subscribe"
+        },
+        "agent": {
+            "type": [
+                "Pharmacy",
+                "WebPage"
+            ],
+            "name": "Silver Stem",
+            "telephone": "+810(303) 720-627-5091",
+            "priceRange": "7-60$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1086 W Littleton Blvd",
+                "addressLocality": "Littleton",
+                "addressRegion": "Colorado",
+                "postalCode": "80120",
+                "addressCountry": "USA"
+            },
+            "url": "https://silverstemcannabis.com/",
+            "image": "https://silverstemcannabis.com/uploads/gallery/2018/08/3139fbf5a2e6af7726dd4819057266c2/5b7fbfee3d4c9365988239.jpeg"
+        },
+        "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://silverstemcannabis.com/",
+            "actionPlatform": [
+                "http://schema.org/DesktopWebPlatform",
+                "http://schema.org/IOSPlatform",
+                "http://schema.org/AndroidPlatform"
+            ]
+        }
+    }
+}
+</script>

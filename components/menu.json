@@ -1,0 +1,89 @@
+<script type="application/ld+json"> 
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+        "WebPage",
+        "WebPageElement"
+    ],
+    "mainContentOfPage": [
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Home",
+            "url": "https://silverstemcannabis.com",
+            "description": "Silver Stem Fine Cannabis Medical Recreational Marijuana Dispensary Home Page"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Cannabis Products",
+            "url": "https://silverstemcannabis.com/cannabis-products/full-menu",
+            "description": "Cannabis menu medical recreational dispensaries Colorado Oregon"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Dispensaries",
+            "url": "https://silverstemcannabis.com/dispensaries",
+            "description": "Dispensaries Medical and Recreational Cannabis Shop"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "News & Articles",
+            "url": "https://silverstemcannabis.com/news-articles",
+            "description": "Blog: Marijuana News And Cannabis Information"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Specials",
+            "url": "https://silverstemcannabis.com/specials",
+            "description": "Specials on medical and recreational cannabis in Colorado"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Loyalty Program",
+            "url": "https://silverstemcannabis.com/loyalty-program",
+            "description": "Grow and nurture your Garden by receiving points every time you check in at our dispensaries. Accumulate points and get to the ultimate prize just for a penny"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Order Now",
+            "url": "https://silverstemcannabis.com/order-now",
+            "description": "Order Now Online and Pick up at your nearby Dispensary"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Careers",
+            "url": "https://silverstemcannabis.com/careers",
+            "description": "Cannabis Careers, Marijuana Jobs"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Sitemap",
+            "url": "https://silverstemcannabis.com/sitemap",
+            "description": "Silver Stem Sitemap"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Strain Guide",
+            "url": "https://silverstemcannabis.com/strain-guide",
+            "description": "Strain Guide to Fine Cannabis Types of Marijuana effects"
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "SiteNavigationElement",
+            "name": "Terms Of Use",
+            "url": "https://silverstemcannabis.com/terms-of-use",
+            "description": "Terms Of Use"
+        }
+    ]
+}
+}
+</script>

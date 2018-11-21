@@ -1,0 +1,115 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "name": "Indica Strains",
+    "description": "The high quality indica strains makes you relaxed and social. Great for relaxation, stress relief, and couchlock.",
+    "itemListElement": [
+
+        /* Product #1 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "...",
+            "image": "...",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "...",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/..."
+            },
+            "position": "1",
+            "sku": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/...",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #1 end */
+        /* Product #2 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.1",
+                "reviewCount": "4"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "...",
+            "image": "...",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "...",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/..."
+            },
+            "position": "2",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "...",
+                    "datePublished": "...",
+                    "description": "...",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "...",
+                    "datePublished": "...",
+                    "description": "...",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "...",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/...",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        }
+        /* Product #2 end */
+    ],
+    "numberOfItems": "11",
+    "url": "https://silverstemcannabis.com/cannabis-products/indica"
+}
+</script>

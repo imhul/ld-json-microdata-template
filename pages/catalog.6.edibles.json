@@ -1,0 +1,310 @@
+<script type="application/ld+json">
+/* Main Edibles Category */
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "WebPage",
+        "ItemList"
+    ],
+    "numberOfItems": "6",
+    "name": "Edibles",
+    "url": "https://silverstemcannabis.com/cannabis-products/edibles",
+    "description": "Edible cannabis is a growing method of consumption. The recommended dose is 10 mg of THC. Edibles come in chocolate, drinks, baked goods, pills.",
+    "itemListElement": [
+        /* Subcategory #1 Baked Goods */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Baked Goods",
+            "position": 1,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/baked-goods/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/baked-goods/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/baked-goods"
+        },
+        /* Subcategory #2 Confectionery & Gummies */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Confectionery & Gummies",
+            "position": 2,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/candies/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/candies/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/candies"
+        },
+        /* Subcategory #3 Chocolates */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Chocolates",
+            "position": 3,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/chocolate/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/chocolate/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/chocolate"
+        },
+        /* Subcategory #4 Drinks */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Drinks",
+            "position": 4,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/drinks/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/drinks/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/drinks"
+        },
+        /* Subcategory #5 Capsules */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Capsules",
+            "position": 5,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/pills/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/pills/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/pills"
+        },
+        /* Subcategory #6 Tinctures */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Tinctures",
+            "position": 6,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/tincture/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/tincture/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/tincture"
+        }
+    ]
+}
+</script>
