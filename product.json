@@ -1,9 +1,9 @@
 <script type="application/ld+json">
 {
-            "@type": [ "Product" ],
+            "@type": "Product",
             "aggregateRating": {
                 "@type": "AggregateRating",
-                "ratingValue": 4.1,
+                "ratingValue": 4.9,
                 "reviewCount": 4
             },
             "audience": {
@@ -14,20 +14,45 @@
             },
             "brand": {
                 "@type": "Brand",
-                "name": "Silver Stem"
+                "name": "Silver Stem Fine Cannabis",
+                "aggregateRating": {
+                    "@type": "AggregateRating",
+                    "ratingValue": 4.9,
+                    "reviewCount": 4
+                },
+                "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png"
             },
             "description": "Big Widow is a nearly 50/50 Hybrid that is sure to deliver a satisfying blend of euphoria, body high, and energy. A cross between Big Bud and White Widow, this smoke is guaranteed to have you in your prime stoney state. With the unique parents, this bud is excellent for treating a vast variety of symptoms, especially depression.",
             "image": "https://api.mmjitsu.com/storage/thumbs/db/6b/3ad55e226aba9d70b273e192bc887993.jpg",
+            /* "isConsumableFor": {
+                "@type": "Product",
+                 Здесь можно указать аксессуар(ы), для которого(ых) данный продукт является расходным материалом, например, бонг
+            },*/
+            /*"isRelatedTo": {
+                "@type": "Product",
+                Здесь можно разместить несколько товаров из соседних субкатегорий той же родительской категории
+            },*/ 
+            /*"isSimilarTo": {
+                "@type": "Product",
+                Здесь можно разместить несколько товаров из текущей субкатегории           
+            },*/
+            "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
             "manufacturer": {
                 "@type": "Organization",
                 "legalName": "Silver Stem"
             },
+            "material": "Cannabis",
             "name": "Big Widow",
             "offers": {
                 "@type": "Offer",
                 "areaServed": "Colorado",
                 "availability": "http://schema.org/InStock",
                 "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086"
+                /* 
+                    Если на странице есть цена:
+                    "price": "55.00",
+                    "priceCurrency": "USD"
+                */
             },
             "review": [
                 {
@@ -54,34 +79,28 @@
                 "1oz"
             ],
             "additionalProperty": [
-                /* Общий блок */
-                {
-                    "@type": "PropertyValue",
-                    "sameAs": "https://www.wikidata.org/wiki/Q2845",
-                    "name": "hybrid strain", /* указать hybrid strain, sativa strain or indica strain */
-                    "value": "Big Widow" /* только название сорта */
-                },
-                /* Если есть побочные эффекты */
+                /* Если есть побочные эффекты, если нет, удалить */
                 {
                     "@type": "PropertyValue",
                     "sameAs": "https://www.wikidata.org/wiki/Property:P1909",
                     "name": "Negatives",
                     "value": "Super Cotton Mouth, Dry/Red Eyes, Mild Paranoia" /* только названия эффектов */
                 },
-                /* Если индика, заполнить этот блок */
+                /* Если индика, заполнить этот блок, если нет, удалить */
                 {
                     "@type": "PropertyValue",
                     "sameAs": "https://www.wikidata.org/wiki/Q2936421",
                     "name": "Cannabis indica",
                     "value": "Big Widow" /* только название сорта */
                 },
-                /* Если сатива, заполнить этот блок */
+                /* Если сатива, заполнить этот блок, если нет, удалить */
                 {
                     "@type": "PropertyValue",
                     "sameAs": "https://www.wikidata.org/wiki/Q79817",
                     "name": "Cannabis sativa",
                     "value": "Big Widow" /* только название сорта */
                 },
+                /* Общий обязательный блок */
                 {
                     "@type": "PropertyValue",
                     "sameAs": "https://www.wikidata.org/wiki/Q11229",
@@ -97,6 +116,12 @@
                     "unitCode": "%",
                     "name": "CBD",
                     "value": "0"
+                },
+                {
+                    "@type": "PropertyValue",
+                    "sameAs": "https://www.wikidata.org/wiki/Q2845",
+                    "name": "hybrid strain", /* указать hybrid strain, sativa strain или indica strain */
+                    "value": "Big Widow" /* только название сорта */
                 }
             ]
         }
