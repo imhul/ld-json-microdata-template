@@ -1,0 +1,427 @@
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "CollectionPage",
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "bestRating": 100,
+        "name": "Silver Stem Dispensary Page Rating",
+        "ratingValue": 94,
+        "reviewCount": 533,
+        "worstRating": 1
+    },
+    "description": "Best Marijuana Dispensaries. Over 100 indica, sativa, and hybrid marijuana strains in buds, prerolls and clones, variety of cannabis products",
+    "inLanguage": "en-US",
+    "mainContentOfPage": [
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ItemList",
+                "WebPageElement"
+            ],
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Denver",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80220",
+                            "streetAddress": "8151 E Colfax Ave"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Denver East Dispensary Page Rating",
+                            "ratingValue": 91,
+                            "reviewCount": 439,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (303) 321-3100",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem store in Denver offers fine cannabis for recreational and medical applications in Stapleton Colorado Dispensary Store Experience",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/39c7b672a2e738394a73831b50284023/5a140f53051dc564981113.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Mo-Sa 09:00-21:45", "Su 09:00-19:00"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (303) 321-3100",
+                        "url": "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora"
+                    },
+                    "name": "Denver East",
+                    "position": 1
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Denver",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80236",
+                            "streetAddress": "3700 W Quincy Ave"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Denver SW Dispensary Page Rating",
+                            "ratingValue": 96,
+                            "reviewCount": 619,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (303) 734-0420",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem store in Denver Colorado offers fine cannabis for recreational and medical. Its the finest strain giving you the experience you need in Lakewood.",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/c200aa9304b1fe10fe9fb15f24750d8b/5a14313ac829c399301097.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Mo-Sa 09:00-21:45", "Su 09:00-19:00"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (303) 734-0420",
+                        "url": "https://silverstemcannabis.com/dispensaries/Denver-Southwest"
+                    },
+                    "name": "Denver SW",
+                    "position": 2
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Littleton",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80120",
+                            "streetAddress": "1086 W Littleton Blvd"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Littleton Dispensary Page Rating",
+                            "ratingValue": 93,
+                            "reviewCount": 527,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (720) 627-5091",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem store in Littleton Colorado Dispensary offers fine cannabis only medical applications. Organically grown, the finest medical strains",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/acd4744a49d11686b2f33fb559397f44/5a141095171f0990999958.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": "Mo-Su 09:00-18:45",
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (720) 627-5091",
+                        "url": "https://silverstemcannabis.com/dispensaries/Littleton-Denver-South"
+                    },
+                    "name": "Littleton",
+                    "position": 3
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Fraser",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80442",
+                            "streetAddress": "511 Zerex St"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Fraser Dispensary Page Rating",
+                            "ratingValue": 92,
+                            "reviewCount": 331,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (970) 726-2055",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Marijuana tourism dispensary near Winter Park in Fraser. Best cannabis in mountains during travelling. Do you know where to buy marijuana?",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/336a5021b7ee53620acd1183ccc51fbc/5a1439b21b72c587636871.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Mo-Sa 09:00-20:45", "Su 09:00-18:45"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (970) 726-2055",
+                        "url": "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area"
+                    },
+                    "name": "Fraser Winter Park Area",
+                    "position": 4
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Nederland",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80466",
+                            "streetAddress": "1 W 1st St #1"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Nederland Dispensary Page Rating",
+                            "ratingValue": 93,
+                            "reviewCount": 267,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (303) 258-3552",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem store in Nederland Boulder offers fine cannabis for various recreational and medical. The finest strain giving you the experience you need",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/03/5192b8670999a9fce937befe7db7fa62/5abe2ba00a98d682691346.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Mo-Sa 10:00-18:45", "Su 10:00-17:45"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (303) 258-3552",
+                        "url": "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area"
+                    },
+                    "name": "Nederland Boulder Area",
+                    "position": 5
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Portland",
+                            "addressRegion": "Colorado",
+                            "postalCode": "97212",
+                            "streetAddress": "1926 NE 40th Ave"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Portland Dispensary Page Rating",
+                            "ratingValue": 97,
+                            "reviewCount": 381,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (503) 208-2074",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Fine Cannabis for the Finest City On Earth. We are selling the finest quality concentrates and edibles to all recreational and medical customers.",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/d5c9626171814e374ce6c6a86fc87c17/5a1432ed6d129097785376.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Fr-Sa 10:00-21:50", "Mo-Tu 10:00-21:00", "Su 11:00-21:00"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (503) 208-2074",
+                        "url": "https://silverstemcannabis.com/dispensaries/Portland-Hollywood"
+                    },
+                    "name": "Portland Hollywood District",
+                    "position": 6
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Boulder",
+                            "addressRegion": "Colorado",
+                            "postalCode": "80302",
+                            "streetAddress": "2043 16th St"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Dispensary Page Rating",
+                            "ratingValue": 91,
+                            "reviewCount": 439,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (720) 389-5726",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem Autorized Retail Partner - Village Green Society. We offer warm, inviting customer service and provide the finest products in this great state, which has been the key to our success.",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/f33daa87ed91ba2e9ceb9158cae970b2/5a1433c5ae67d825435175.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": ["Th-Sa 09:00-21:45", "Mo-We 9:00-21:00", "Su 9:00-20:00"],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "sameAs": "www.villagegreenboulder.com",
+                        "telephone": "+1 (720) 389-5726",
+                        "url": "https://silverstemcannabis.com/dispensaries/Village-Green-Society"
+                    },
+                    "name": "Village Green Society",
+                    "position": 7
+                },
+                {
+                    "@type": "ListItem",
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "Trinidad",
+                            "addressRegion": "Colorado",
+                            "postalCode": "81082",
+                            "streetAddress": "401 W Main St"
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem Dispensary Page Rating",
+                            "ratingValue": 90,
+                            "reviewCount": 412,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (719) 967-1111",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "Silver Stem store in Denver offers fine cannabis for recreational and medical applications in Stapleton Colorado Dispensary Store Experience",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/03/e1f52b679b85544362e34c80ccbfe1f3/5abe2649d85b2458362237.jpeg",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": "Su-Sa 09:00-18:45",
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (719) 967-1111",
+                        "url": "https://silverstemcannabis.com/dispensaries/main-street-cannabis"
+                    },
+                    "name": "Main Street Cannabis",
+                    "position": 8
+                }
+            ],
+            "name": "Dispensaries addresses",
+            "numberOfItems": 8,
+            "url": "https://silverstemcannabis.com/dispensaries"
+        }
+    ],
+    "mainEntityOfPage": "https://silverstemcannabis.com/",
+    "name": "Silver Stem Dispensaries",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "significantLinks": [
+        "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora",
+        "https://silverstemcannabis.com/dispensaries/Denver-Southwest",
+        "https://silverstemcannabis.com/dispensaries/Littleton-Denver-South",
+        "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area",
+        "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area",
+        "https://silverstemcannabis.com/dispensaries/Portland-Hollywood",
+        "https://silverstemcannabis.com/dispensaries/Village-Green-Society",
+        "https://silverstemcannabis.com/dispensaries/main-street-cannabis"
+    ],
+    "url": "https://silverstemcannabis.com/dispensaries"
+}
+</script>

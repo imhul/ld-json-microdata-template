@@ -6,7 +6,6 @@
         "WebPage"
     ],
     "name": "Silver Steam Fine Cannabis",
-    "alternateName": "Silver Steam",
     "url": "https://silverstemcannabis.com/",
     "inLanguage": "en-US",
     "mainEntityOfPage": "https://silverstemcannabis.com/",
@@ -30,10 +29,10 @@
     "openingHours": "Mo, Tu, We, Th, Fr, Sa, Su 09:00-18:45 Th",
     "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+810(303) 720-627-5091",
+        "telephone": "+1 (720) 627-5091",
         "contactType": "customer support"
     },
-    "telephone": "+810(303) 720-627-5091",
+    "telephone": "+1 (720) 627-5091",
     "priceRange": "7-60$",
     "significantLinks": [
         "https://silverstemcannabis.com/cannabis-products/full-menu",
