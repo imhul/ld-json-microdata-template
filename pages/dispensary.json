@@ -1,0 +1,65 @@
+<script type="application/ld+json">
+// Dynamic Component
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+        "Pharmacy",
+        "ContactPage"
+    ],
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Denver",
+        "addressRegion": "Colorado",
+        "name": "dispensary address",
+        "postalCode": "80220",
+        "streetAddress": "8151 E Colfax Ave"
+    },
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "bestRating": 100,
+        "name": "Silver Stem Dispensary Page Rating",
+        "ratingValue": 94,
+        "reviewCount": 533,
+        "worstRating": 1
+    },
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "name": "telephone",
+        "telephone": "+1 (303) 321-3100"
+    },
+    "currenciesAccepted": "USD",
+    "description": "Best Marijuana Dispensaries. Over 100 indica, sativa, and hybrid marijuana strains in buds, prerolls and clones, variety of cannabis products",
+    "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/39c7b672a2e738394a73831b50284023/5a140f53051dc564981113.jpeg",
+    "inLanguage": "en-US",
+    "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+    "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+    "name": "Silver Stem Fine Cannabis",
+    "openingHours": [
+        "Mo-Sa 09:00-21:45",
+        "Su 09:00-19:00"
+    ],
+    "paymentAccepted": "Cash, Credit Card",
+    "priceRange": "7-60$",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "significantLinks": [
+        "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora",
+        "https://silverstemcannabis.com/dispensaries/Denver-Southwest",
+        "https://silverstemcannabis.com/dispensaries/Littleton-Denver-South",
+        "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area",
+        "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area",
+        "https://silverstemcannabis.com/dispensaries/Portland-Hollywood",
+        "https://silverstemcannabis.com/dispensaries/Village-Green-Society",
+        "https://silverstemcannabis.com/dispensaries/main-street-cannabis"
+    ],
+    "telephone": "+1 (303) 321-3100",
+    "url": "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora"
+}
+</script>
