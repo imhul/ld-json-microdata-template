@@ -1,0 +1,75 @@
+<script type="application/ld+json">
+// Dynamic Component
+{
+    "@context": "http://schema.org",
+    "@type": "SocialMediaPosting",
+    "articleBody": "It's $14.99 a month.<br> And for a limited time, …",
+    "author": {
+        "@type": "Organization",
+        "name": "Silver Stem",
+        "url": "https://silverstemcannabis.com/"
+    },
+    "datePublished": "2014-03-04",
+    "description": "Welcome to live coverage of the Apple Spring Forward …",
+    "headline": "Leaked new BMW 2 series (m235i)",
+    "image": "https://silverstemcannabis.com/uploads/gallery/2018/03/5192b8670999a9fce937befe7db7fa62/5abe2ba00a98d682691346.jpeg",
+    "sharedContent": [
+        {
+            "@type": "BlogPosting",
+            "articleBody": "It's $14.99 a month.<br> And for a limited time, …",
+            "author": {
+                "@type": "Organization",
+                "name": "Silver Stem",
+                "url": "https://silverstemcannabis.com/"
+            },
+            "dateModified": "2015-03-09T13:08:00-07:00",
+            "datePublished": "2015-03-09T13:08:00-07:00",
+            "headline": "Coming this April, HBO NOW will be available exclusively in the U.S. on Apple TV and the App Store.",
+            "image": "https://silverstemcannabis.com/uploads/gallery/2018/03/5192b8670999a9fce937befe7db7fa62/5abe2ba00a98d682691346.jpeg",
+            "mainEntityOfPage": "https://silverstemcannabis.com/news-articles",
+            "publisher": {
+                "@type": "Organization",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png"
+                },
+                "name": "Silver Stem",
+                "url": "https://silverstemcannabis.com/"
+            },
+            "sharedContent": {
+                "@type": "WebPage",
+                "headline": "Leaked new BMW 2 series (m235i) ahead of oct 25 reveal",
+                "url": "http://www.reddit.com/r/BMW/comments/1oyh6j/leaked_new_bmw_2_series_m235i_ahead_of_oct_25/"
+            }
+        },
+        {
+            "@type": "BlogPosting",
+            "articleBody": "It's $14.99 a month.<br> And for a limited time, …",
+            "author": {
+                "@type": "Organization",
+                "name": "Silver Stem",
+                "url": "https://silverstemcannabis.com/"
+            },
+            "dateModified": "2015-03-09T13:08:00-07:00",
+            "datePublished": "2015-03-09T13:08:00-07:00",
+            "headline": "Coming this April, HBO NOW will be available exclusively in the U.S. on Apple TV and the App Store.",
+            "image": "https://silverstemcannabis.com/uploads/gallery/2018/03/5192b8670999a9fce937befe7db7fa62/5abe2ba00a98d682691346.jpeg",
+            "mainEntityOfPage": "https://silverstemcannabis.com/news-articles",
+            "publisher": {
+                "@type": "Organization",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png"
+                },
+                "name": "Silver Stem",
+                "url": "https://silverstemcannabis.com/"
+            },
+            "sharedContent": {
+                "@type": "WebPage",
+                "headline": "Leaked new BMW 2 series (m235i) ahead of oct 25 reveal",
+                "url": "http://www.reddit.com/r/BMW/comments/1oyh6j/leaked_new_bmw_2_series_m235i_ahead_of_oct_25/"
+            }
+        }
+    ]
+}
+</script>
