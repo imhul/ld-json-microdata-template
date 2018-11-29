@@ -1,6 +1,7 @@
 EXAMPLE:
 
 <script type="application/ld+json">
+// Dynamic component
 {
  "@context": "http://schema.org",
  "@type": "BreadcrumbList",

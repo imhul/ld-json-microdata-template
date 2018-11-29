@@ -1,0 +1,255 @@
+<script type="application/ld+json">
+// Dynamic component recommend
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "ItemList",
+        "CollectionPage"
+    ],
+    "itemListElement": [
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Cannabis Products",
+            "position": 1,
+            "url": "https://silverstemcannabis.com/cannabis-products/full-menu",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Flowers",
+            "position": 2,
+            "url": "https://silverstemcannabis.com/cannabis-products/flower",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Indica",
+            "position": 3,
+            "url": "https://silverstemcannabis.com/cannabis-products/indica",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Sativa",
+            "position": 4,
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Hybrid",
+            "position": 5,
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Cannabis Concentrates",
+            "position": 6,
+            "url": "https://silverstemcannabis.com/cannabis-products/concentrates",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Cannabis Topicals",
+            "position": 7,
+            "url": "https://silverstemcannabis.com/cannabis-products/topicals",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Marijuana Edibles",
+            "position": 8,
+            "url": "https://silverstemcannabis.com/cannabis-products/edibles",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Vape Cartridge",
+            "position": 9,
+            "url": "https://silverstemcannabis.com/cannabis-products/vaporize-cartridges",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Apparel & Accessories",
+            "position": 10,
+            "url": "https://silverstemcannabis.com/cannabis-products/accessories-n-merchandise",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Order Now",
+            "position": 11,
+            "url": "https://silverstemcannabis.com/order-now",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Dispensaries",
+            "position": 12,
+            "url": "https://silverstemcannabis.com/dispensaries",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Denver East, CO",
+            "position": 13,
+            "url": "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Denver SW, CO",
+            "position": 14,
+            "url": "https://silverstemcannabis.com/dispensaries/Denver-Southwest",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Littleton, CO",
+            "position": 15,
+            "url": "https://silverstemcannabis.com/dispensaries/Littleton-Denver-South",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Nederland, CO",
+            "position": 16,
+            "url": "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Fraser, CO",
+            "position": 17,
+            "url": "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Portland, OR",
+            "position": 18,
+            "url": "https://silverstemcannabis.com/dispensaries/Portland-Hollywood",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Specials",
+            "position": 19,
+            "url": "https://silverstemcannabis.com/specials",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Careers",
+            "position": 20,
+            "url": "https://silverstemcannabis.com/careers",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Loyalty Members",
+            "position": 21,
+            "url": "https://silverstemcannabis.com/loyalty-members",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Strain Guide",
+            "position": 22,
+            "url": "https://silverstemcannabis.com/strain-guide",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - News & Articles",
+            "position": 23,
+            "url": "https://silverstemcannabis.com/news-articles",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        },
+        {
+            "@type": [
+                "ListItem",
+                "WebPage"
+            ],
+            "name": "Silver Stem - Contact Us",
+            "position": 24,
+            "url": "https://silverstemcannabis.com/contact-us",
+            "mainEntityOfPage": "https://silverstemcannabis.com/"
+        }
+    ],
+    "name": "Silver Stem - Sitemap",
+    "numberOfItems": 24,
+    "url": "https://silverstemcannabis.com/sitemap"
+}
+</script>

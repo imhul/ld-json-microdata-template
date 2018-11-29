@@ -1,0 +1,163 @@
+<script type="application/ld+json">
+/* Main Topicals Category */
+{
+    "@context": "http://schema.org",
+    "@type": [
+        "WebPage",
+        "ItemList"
+    ],
+    "numberOfItems": "3",
+    "name": "Topicals",
+    "url": "https://silverstemcannabis.com/cannabis-products/topicals",
+    "description": "Tincture is a great way to ingest marijuana without eating or smoking. Tincture can be dropped into your drink of choice or directionally into the mouth.",
+    "itemListElement": [
+        /* Subcategory #1 Lotions */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Lotions",
+            "position": 1,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/lotion/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/lotion/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/lotion"
+        },
+        /* Subcategory #2 Patches */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Patches",
+            "position": 2,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/patch/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/patch/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/patch"
+        },
+        /* Subcategory #3 Body Oils */
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ListItem",
+                "ItemList"
+            ],
+            "name": "Body Oils",
+            "position": 3,
+            "itemListElement": [
+                /* Product #1 */
+                {
+                    "@type": [
+                        "ListItem",
+                        "Product"
+                    ],
+                    "brand": {
+                        "@type": "Brand",
+                        "name": "Silver Stem"
+                    },
+                    "description": "...",
+                    "image": "...",
+                    "manufacturer": {
+                        "@type": "Organization",
+                        "legalName": "Silver Stem"
+                    },
+                    "name": "...",
+                    "offers": {
+                        "@type": "Offer",
+                        "areaServed": "Colorado",
+                        "availability": "http://schema.org/InStock",
+                        "url": "https://silverstemcannabis.com/cannabis-products/oil/..."
+                    },
+                    "position": "1",
+                    "sku": "...",
+                    "url": "https://silverstemcannabis.com/cannabis-products/oil/...",
+                    "weight": [
+                        "1g",
+                        "1/8oz",
+                        "1/4oz",
+                        "1/2oz",
+                        "1oz"
+                    ]
+                }
+                /* Product #1 end */
+            ],
+            "numberOfItems": "...",
+            "url": "https://silverstemcannabis.com/cannabis-products/oil"
+        }
+    ]
+}
+</script>

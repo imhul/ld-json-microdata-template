@@ -1,0 +1,770 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "name": "Sativa Strains",
+    "description": "Sativa flower normally has higher Tetrahydrocannabinol THC to Cannabidiol CBD ratio and offers for recreational and medical patients",
+    "itemListElement": [
+        /* Product #1 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "2"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. Cherry Durban Poison is a unique, high-energy flower. It delivers a rush of cerebral euphoria that elevates the mood without clouding the mind, which makes it perfect for artistic people.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/55/65/bf8cd9ab2c0e67ef7fd06412221040e1.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Cherry Durban Poison",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/cherry-durban-poison"
+            },
+            "position": "1",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Angie",
+                    "datePublished": "2015-11-24",
+                    "description": "I would suggest this strain for pain relief and as a mood lifter. Great high for watching movies or listening to sport radio. Very Blissful and tingly head high. Bad Dry Mouth. Mild Munchies.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Kylene",
+                    "datePublished": "2015-11-1",
+                    "description": "Nice Creative Buzz, Little to strong on the sativa side for my taste, to much head high",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.2",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Cherry Durban Poison",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/cherry-durban-poison",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #1 end */
+        /* Product #2 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Chocolope is a cross between Chocolate Thai and Cannalope Haze. This powerful sativa strain has earthy, sweet coffee flavors and provides a dreamy, cerebral effect and euphoria.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/7d/45/15e296b5592196ef5abc1882de9edb14.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Chocolope",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/chocolope-1152"
+            },
+            "position": "2",
+            "sku": "Chocolope",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/chocolope-1152",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #2 end */
+        /* Product #3 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Chocolope is a robust sativa hybrid that is a cross of Chocolate Thai and Cannalope Haze. These hefty buds have a scent of sweet cocoa provided by the terpenes Limonene, Linalool, Pinene and Myrcene. Chocolope creates a floaty cerebral effect and is a great stress reliever.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/b6/ee/f301cc4174b1f00aaf420c5206e83781.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Chocolope Kief | Sativa 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/chocolope-kief-sativa-1g-4451"
+            },
+            "position": "3",
+            "sku": "Chocolope Kief | Sativa 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/chocolope-kief-sativa-1g-4451",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #3 end */
+        /* Product #4 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "3"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Known for its fruity aroma and earthy undertones, Dutch Treat Haze is a captivating sativa dominant hybrid. Its immediate energetic effects make it a sociable, creative, and appetite stimulating strain.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/c0/b9/7f6a05c852bd9d2a5932d26bb0e9181e.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Dutch Treat Haze",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/dutch-treat-haze"
+            },
+            "position": "4",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Rj",
+                    "datePublished": "2016-10-05",
+                    "description": "Just awesome.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Matthew",
+                    "datePublished": "2015-10-31",
+                    "description": "Very potent, tastes great, Focused High.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.7",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Maxine",
+                    "datePublished": "2015-10-15",
+                    "description": "Buds are sparkely like they have been rolled in keif. True sativa dominant for me. Wave like body high that creeps up to my head. pretty funky stoney high for me. Flavor is musky but light.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.7",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Dutch Treat Haze",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/dutch-treat-haze",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #4 end */
+        /* Product #5 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Known for its fruity aroma and earthy undertones, Dutch Treat Haze is a captivating sativa dominant hybrid. Its immediate energetic effects make it a sociable, creative, and appetite stimulating strain.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/93/ab/c353746f8279a23eba5bd5b8765e5b2e.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Dutch Treat Haze Kief | Sativa 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/dutch-treat-haze-kief-sativa-1g-4459"
+            },
+            "position": "5",
+            "sku": "Dutch Treat Haze Kief | Sativa 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/dutch-treat-haze-kief-sativa-1g-4459",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #5 end */
+        /* Product #6 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Green Crack gives a boost of sharp energy and focus as it induces a mental buzz that keeps you going throughout the day. Its distinctive smell carries an inviting fruity flavor. Great for treating fatigue, stress, and depression.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/d8/a9/58573dcb8aa857e8befd11cb8443af38.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Green Crack",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/green-crack"
+            },
+            "position": "6",
+            "sku": "Green Crack",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/green-crack",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #6 end */
+        /* Product #7 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Lemon Cap is a superb sativa we crafted from a cross of our Snowcap and Lemon Skunk. It's terpene profile boasts of sweet and citrusy Lemons. This pungent high-tester is a known to greatly elevate your mood and enhance your spirits for hours.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/6f/3e/b0193c0ca9b0a2e80b610337cdaffafc.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Lemon Cap",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-cap"
+            },
+            "position": "7",
+            "sku": "Lemon Cap",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-cap",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #7 end */
+        /* Product #8*/
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "A cross between 2 of the most popular sativas, Snowcap and Lemon skunk. Clean, focus high, strong body stoned and also a relaxed tingly body stoned. The high isn’t too strong and focuses on being a heady high with the sativa effects of a spirit lift, mood boost, and energized focus. One of the better sativa’s out there. This is a great socializing strain. First of all, the smell is phenomenal. The lemon and citrus profiles really stand out and give off a delicious scent! The nugs are bright green with bright orange hairs all over. This is a great mood pick me up because it will make you forget what you were mad about in the first place. Wonderful for sativa lovers!",
+            "image": "https://api.mmjitsu.com/storage/thumbs/a9/e1/7188acf4b33f5e9c10c7dbec477db242.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Lemon Cap Kief | Sativa 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-cap-kief-sativa-1g-4469"
+            },
+            "position": "8",
+            "sku": "Lemon Cap Kief | Sativa 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-cap-kief-sativa-1g-4469",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #8 end */
+        /* Product #9 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "3"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "We are proud to introduce Lemon Skunk, one of our premier strains here at Silver Stem. A direct descendant of the famous Skunk #1, our Lemon Skunk retains the iconic smell that earned the original its name, with the added bonus of a hint of lemony zest. Let the sweet skunky aroma and tightly packed deep purple and orange flowers draw you in for an uplifting, creative, and energetic experience.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/2e/36/9c0b7f0ead062c215ec1f938f4684120.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Lemon Skunk",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-skunk"
+            },
+            "position": "9",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Dan",
+                    "datePublished": "2015-11-07",
+                    "description": "Initial high was around 1:45hr. Focused on the eyes. Not as hungry at MTF or BD. Total lasting effects were around 2:30 - 3hr",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.9",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Kylene",
+                    "datePublished": "2015-09-28",
+                    "description": "Love the purple apperance. Dense Bud. Sweet taste you can really taste. Good head high. Munchies.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Angie",
+                    "datePublished": "2015-10-05",
+                    "description": "Flavor. Great Pain Relief. Great energy for cleaing. Makes me cough. really smelly. If I sat down or idled the high would get racey",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Lemon Skunk",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/lemon-skunk",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #9 end */
+        /* Product #10 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.1",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "MTF is a truly unique strain. Its orange hairs and light green hue make this flower an extremely beautiful one. Due to its Hybrid cross, it gives off a strong body high that can last for hours. Matanuska Thunder Fuck has earthy, woody and pine flavors.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/c2/43/03ca7fc83c76341c5f48772a0f602a8a.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Matanuska Thunder Fuck MTF",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/matanuska-thunder-fuck"
+            },
+            "position": "10",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Dan",
+                    "datePublished": "2015-12-05",
+                    "description": "High lasted about an hour. 2-2 1/2 hour High not as bad munchies as most sativas. ",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.1",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Matanuska Thunder Fuck MTF",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/matanuska-thunder-fuck",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #10 end */
+        /* Product #11 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Mimosa is the perfect name for this strain. Its powerful sativa effects are very uplifting and energetic. The smell is very sweet with undertones of oranges. Be careful with this strain, for its high sativa effects are not recommended for a novice.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/fe/38/3cea286aa3129061cf4c925743ba660a.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Mimosa",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/mimosa"
+            },
+            "position": "11",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "ELSydro",
+                    "datePublished": "2018-03-15",
+                    "description": "Mimosa is a Sativa dominant variety that was originally breed by Symbiote Genetics, which was Clementine x Purple Punch. It definitely, as I don’t have the bud in front of me I’m going off of memories , has orange smells, but once smoked was when the citrus really came out! I personally found Mimosa, the pheno that Silverstem carries to be a rid bit racy for me, but then again I LOVE MY Indicas!!!!! So if you are a lover of anything citrus this will definitely be a good medicinal strain for you! If I go for citrus I typically go for that Lemon Funk, only ongange strains I really truly love are orange Herijuana, Orange Kush and Colorado Clementine, so this is a bit to much on the Sativa side, I can only take a few hits at most, the flavor is sublime, it’s very heady high, definitely not a stone. So if you suffer from extreme anxiety, well I’ve seen it go both ways, as it helps my fiancé, but not so much for me, it’s worth picking up a gram and trying, as there are definitely medicinal values to be had, unfortunately for me this was not the one, I tend to go towards Silverstems True OG, OG Kush, Deep Chunk, purple erkle, as they’ve knocked it out of the park everytime I had one of those strains, they’re the ones that keep me going back, so if citrus and oranges is your thing, try it out, may become a new favorite!!!!",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Mimosa",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/mimosa",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #11 end */
+        /* Product #12 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Quantum Kush may just be the flower for you. A complex aroma of earth and sweet create a scent that will tingle your nose. Whether you are dealing with appetite loss, nausea, or depression this flower could be your go to.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/cd/67/211b3948591e35980821838fac4a2d0d.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Quantum Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/quantum-kush"
+            },
+            "position": "12",
+            "sku": "Quantum Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/quantum-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #12 end */
+        /* Product #13 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Snowcap's robust, large flowers make this plant a beautiful one. Its lemony, menthol scent will lead to a cerebral, creative happiness, and a case of the giggles. This strain is a must have on your shelf.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/a9/25/79ce98e20769e53352acc0659c4558d8.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Snowcap Kief | Sativa 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/snowcap-kief-sativa-1g-4489"
+            },
+            "position": "13",
+            "sku": "Snowcap Kief | Sativa 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/snowcap-kief-sativa-1g-4489",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #13 end */
+        /* Product #14 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Snowcap Phenotype #4 - The effects are decidedly cerebral and should trigger creativity, happiness, and a case of the giggles",
+            "image": "https://api.mmjitsu.com/storage/thumbs/f5/0e/f68c10953711858fdf7ff0e55e6b7e19.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Snowcone | Sativa",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/snowcone-sativa-2958"
+            },
+            "position": "14",
+            "sku": "Snowcone | Sativa",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/snowcone-sativa-2958",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #14 end */
+        /* Product #15 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Super Lemon Haze is a kief-caked multi-colored wonder. As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/9d/6f/d75ac1252874c05e2bf8617c49eefb29.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Super Lemon Haze",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/super-lemon-haze-1104"
+            },
+            "position": "15",
+            "sku": "Super Lemon Haze",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/super-lemon-haze-1104",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #15 end */
+        /* Product #16 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Super Lemon Haze is a kief-caked multi-colored wonder. As the name states this strain has real lemony characteristics. The smell is zesty, citrusy, and a little sweet. As for the taste, it's everything one would expect from the namesake; tart and sweet like lemonheads candy - not quite as sharp as one might expect. The effects are uniquely energetic and lively, may not be the best strain for those of us that are naturally wound-up tight.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/89/f0/b15a586d5da3a1f05c59e7ca1da7f13a.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Super Lemon Haze Kief | Sativa 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/super-lemon-haze-kief-sativa-1g-4495"
+            },
+            "position": "16",
+            "sku": "Super Lemon Haze Kief | Sativa 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/super-lemon-haze-kief-sativa-1g-4495",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #16 end */
+        /* Product #17 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "This pure sativa has gained notoriety worldwide for its sweet smell and energetic, uplifting effects. Durban Poison is the perfect strain to help you stay productive through a busy day, when exploring the outdoors, or to lend a spark of creativity.
+            ",
+            "image": "https://api.mmjitsu.com/storage/thumbs/99/b0/5ecabf20fea913c883c833498673dd94.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Willie's Reserve Durban Poison",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/sativa/wr-durban-poison-721"
+            },
+            "position": "17",
+            "sku": "Willie's Reserve Durban Poison",
+            "url": "https://silverstemcannabis.com/cannabis-products/sativa/wr-durban-poison-721",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        }
+        /* Product #17 end */
+    ],
+    "numberOfItems": "17",
+    "url": "https://silverstemcannabis.com/cannabis-products/sativa"
+}
+</script>

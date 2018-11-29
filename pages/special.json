@@ -1,0 +1,273 @@
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+        "CollectionPage",
+        "ContactPage"
+    ],
+    "name": "OZ Flower Sale",
+    "url": "https://silverstemcannabis.com/specials",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://silverstemcannabis.com/",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/fee67a5cac99b5ada413613e95f0b955/5a13fe043295a017764643.jpeg",
+    "description": "Buy Online ounce for $89, and $99/Oz. Blue Dream, Lemon Skunk, Snowcap and Lemon Cap ounces are also on special",
+    // Важные ссылки на странице
+    "significantLinks": [
+        "https://silverstemcannabis.com/dispensaries",
+        "https://silverstemcannabis.com/order-now",
+        "https://silverstemcannabis.com/specials",
+        "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora",
+        "https://silverstemcannabis.com/dispensaries/Denver-Southwest",
+        "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area",
+        "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area",
+        "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream",
+        "https://silverstemcannabis.com/cannabis-products/hybrid/dominoff-7",
+        "https://silverstemcannabis.com/cannabis-products/sativa/lemon-skunk",
+        "https://silverstemcannabis.com/cannabis-products/sativa/lemon-cap",
+        "https://silverstemcannabis.com/news-articles/special-tier-pros-and-cons-of-buying-cheaper-strain",
+        "https://silverstemcannabis.com/specials/golden-ounce",
+        "https://silverstemcannabis.com/specials/half-ounce-flower-special",
+        "https://silverstemcannabis.com/specials/giveaway",
+        "https://silverstemcannabis.com/specials/save-big",
+        "https://silverstemcannabis.com/specials/vendorday",
+        "https://silverstemcannabis.com/specials/shatterday"
+    ],
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "name": "Silver Stem Specials Page Rating",
+        "reviewCount": 341,
+        "ratingValue": 94,
+        "bestRating": 100,
+        "worstRating": 1
+    },
+    "mainContentOfPage": [
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "ItemList",
+                "WebPageElement"
+            ],
+            "numberOfItems": "4",
+            "itemListElement": [
+                //
+                // Dynamic section 
+                //
+                //         {
+                //             "@type": "ListItem",
+                //             "position": 1,
+                //             "item": {
+                //                 "@type": "Product",
+                //                 "aggregateRating": {
+                //                     "@type": "AggregateRating",
+                //                     "ratingValue": 4.9,
+                //                     "reviewCount": 4
+                //                 },
+                //                 "audience": {
+                //                     "@type": "PeopleAudience",
+                //                     "requiredMinAge": 18,
+                //                     "suggestedMinAge": 18,
+                //                     "geographicArea": "Colorado"
+                //                 },
+                //                 "brand": {
+                //                     "@type": "Brand",
+                //                     "name": "Silver Stem Fine Cannabis",
+                //                     "aggregateRating": {
+                //                         "@type": "AggregateRating",
+                //                         "ratingValue": 4.9,
+                //                         "reviewCount": 4
+                //                     },
+                //                     "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png"
+                //                 },
+                //                 "description": "Our Blue Dream phenotype produces a Indica like high without the heavy sedative effects.",
+                //                 "image": "https://api.mmjitsu.com/storage/thumbs/6a/50/67c9e837e80c1d772089c6692813cdbe.jpg",
+                //                 "isRelatedTo": {
+                //                     "@type": "Product",
+                //                     "aggregateRating": {
+                //                         "@type": "AggregateRating",
+                //                         "ratingValue": 4.9,
+                //                         "reviewCount": 4
+                //                     },
+                //                     "audience": {
+                //                         "@type": "PeopleAudience",
+                //                         "requiredMinAge": 18,
+                //                         "suggestedMinAge": 18,
+                //                         "geographicArea": "Colorado"
+                //                     },
+                //                     "brand": {
+                //                         "@type": "Brand",
+                //                         "name": "Silver Stem Fine Cannabis",
+                //                         "aggregateRating": {
+                //                             "@type": "AggregateRating",
+                //                             "ratingValue": 4.9,
+                //                             "reviewCount": 4
+                //                         },
+                //                         "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png"
+                //                     },
+                //                     "description": "Our Blue Dream phenotype produces a Indica like high without the heavy sedative effects.",
+                //                     "image": "https://api.mmjitsu.com/storage/thumbs/6a/50/67c9e837e80c1d772089c6692813cdbe.jpg",
+                //                     "isRelatedTo": {
+                //                         "@type": "Product",
+                //                     },
+                //                     "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                //                     "manufacturer": {
+                //                         "@type": "Organization",
+                //                         "legalName": "Silver Stem"
+                //                     },
+                //                     "material": "Cannabis",
+                //                     "name": "Blue Dream",
+                //                     "offers": {
+                //                         "@type": "Offer",
+                //                         "areaServed": "Colorado",
+                //                         "availability": "http://schema.org/InStock",
+                //                         "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream"
+                //                     },
+                //                     "sku": "Blue Dream",
+                //                     "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream",
+                //                     "weight": "1oz",
+                //                     "additionalProperty": [
+                //                         {
+                //                             "@type": "PropertyValue",
+                //                             "sameAs": "https://www.wikidata.org/wiki/Property:P1909",
+                //                             "name": "Negatives",
+                //                             "value": "Dry Mouth, Dry/Red Eyes, Mild Paranoia"
+                //                         },
+                //                         {
+                //                             "@type": "PropertyValue",
+                //                             "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                //                             "unitText": "percent",
+                //                             "unitCode": "%",
+                //                             "name": "THC",
+                //                             "value": "19"
+                //                         },
+                //                         {
+                //                             "@type": "PropertyValue",
+                //                             "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                //                             "unitText": "percent",
+                //                             "unitCode": "%",
+                //                             "name": "CBD",
+                //                             "value": "2"
+                //                         },
+                //                         {
+                //                             "@type": "PropertyValue",
+                //                             "sameAs": "https://www.wikidata.org/wiki/Q2845",
+                //                             "name": "hybrid strain", /* указать hybrid strain, sativa strain или indica strain */
+                //                             "value": "Blue Dream" /* только название сорта */
+                //                         }
+                //                     ]
+                //                 },
+                //                 "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                //                 "manufacturer": {
+                //                     "@type": "Organization",
+                //                     "legalName": "Silver Stem"
+                //                 },
+                //                 "material": "Cannabis",
+                //                 "name": "Blue Dream",
+                //                 "offers": {
+                //                     "@type": "Offer",
+                //                     "areaServed": "Colorado",
+                //                     "availability": "http://schema.org/InStock",
+                //                     "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream"
+                //                 },
+                //                 "sku": "Blue Dream",
+                //                 "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream",
+                //                 "weight": "1oz",
+                //                 "additionalProperty": [
+                //                     {
+                //                         "@type": "PropertyValue",
+                //                         "sameAs": "https://www.wikidata.org/wiki/Property:P1909",
+                //                         "name": "Negatives",
+                //                         "value": "Dry Mouth, Dry/Red Eyes, Mild Paranoia"
+                //                     },
+                //                     {
+                //                         "@type": "PropertyValue",
+                //                         "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                //                         "unitText": "percent",
+                //                         "unitCode": "%",
+                //                         "name": "THC",
+                //                         "value": "19"
+                //                     },
+                //                     {
+                //                         "@type": "PropertyValue",
+                //                         "sameAs": "https://www.wikidata.org/wiki/Q11229",
+                //                         "unitText": "percent",
+                //                         "unitCode": "%",
+                //                         "name": "CBD",
+                //                         "value": "2"
+                //                     },
+                //                     {
+                //                         "@type": "PropertyValue",
+                //                         "sameAs": "https://www.wikidata.org/wiki/Q2845",
+                //                         "name": "hybrid strain", /* указать hybrid strain, sativa strain или indica strain */
+                //                         "value": "Blue Dream" /* только название сорта */
+                //                     }
+                //                 ]
+                //             }
+                //         },
+                //
+                // Product section end
+                //
+                // Static section
+                //
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@type": [
+                            "Pharmacy",
+                            "ContactPage",
+                            "Store"
+                        ],
+                        "address": {
+                            "@type": "PostalAddress",
+                            "name": "dispensary address",
+                            "addressCountry": "USA",
+                            "addressLocality": "...",
+                            "addressRegion": "Colorado",
+                            "postalCode": "...",
+                            "streetAddress": "..."
+                        },
+                        "aggregateRating": {
+                            "@context": "http://www.schema.org",
+                            "@type": "aggregateRating",
+                            "bestRating": 100,
+                            "name": "Silver Stem ... Dispensary Page Rating",
+                            "ratingValue": 91,
+                            "reviewCount": 439,
+                            "worstRating": 1
+                        },
+                        "contactPoint": {
+                            "@type": "ContactPoint",
+                            "contactType": "customer support",
+                            "telephone": "+1 (303) 321-3100",
+                            "name": "telephone"
+                        },
+                        "currenciesAccepted": "USD",
+                        "description": "...",
+                        "image": "...",
+                        "inLanguage": "en-US",
+                        "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/dispensaries",
+                        "name": "Silver Stem Fine Cannabis",
+                        "openingHours": [
+                            "Mo-Sa 09:00-21:45",
+                            "Su 09:00-19:00"
+                        ],
+                        "paymentAccepted": "Cash, Credit Card",
+                        "priceRange": "7-60$",
+                        "telephone": "+1 (303) 321-3100",
+                        "url": "..."
+                    },
+                    "name": "..."
+                }
+            ]
+        }
+    ]
+}
+</script>

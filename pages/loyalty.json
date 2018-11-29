@@ -1,0 +1,52 @@
+<script type="application/ld+json">
+{
+    "@context": "http://www.schema.org",
+    "@type": "WebPage",
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "bestRating": 100,
+        "name": "Silver Stem Dispensary Page Rating",
+        "ratingValue": 94,
+        "reviewCount": 533,
+        "worstRating": 1
+    },
+    "description": "Grow and nurture your Garden by receiving points every time you check in at our dispensaries. Accumulate points and get to the ultimate prize just for a penny",
+    "image": "/uploads/gallery/2018/06/84b9a04e12bcd5d8e96e8fb30e12e0e0/5b2ba08f3368d424323631.jpeg",
+    "inLanguage": "en-US",
+    "mainContentOfPage": [
+        {
+            "@context": "http://schema.org",
+            "@type": [
+                "WebPageElement",
+                "CreativeWork"
+            ],
+            "name": "Dispensaries addresses",
+            "url": "https://silverstemcannabis.com/loyalty-program",
+            "text": "Silver Stem Fine Cannabis is proud to introduce our exclusive program - The Garden. Cultivate your Garden by receiving 30 points when you sign up. Grow and nurture your Garden by receiving 20 points every time you check in at our dispensaries. Accumulate points and get to the ultimate prize – an Ounce of your favorite flower for just a penny! Cash in on your crop and earn rewards! Visit your location's page for details regarding SMS notification. Please note that you can earn points every day, but NO MORE than ONE check-in per day. Visit your local dispensary to step into The Garden Rewards Program or sign up HERE to join ONLINE. You can earn and check your points now without visiting the store. Go to the loyalty page of your location now.",
+            "keywords": [
+                "Silver Stem Fine Cannabis",
+                "Ounce of your favorite flower for just a penny",
+                "The Garden Rewards Program",
+                "loyalty page of your location"
+            ]
+        }
+    ],
+    "mainEntityOfPage": "https://silverstemcannabis.com/",
+    "name": "The Garden Loyalty Program",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "significantLinks": [
+        "https://silverstemcannabis.com/dispensaries/Denver-East-Aurora",
+        "https://silverstemcannabis.com/dispensaries/Denver-Southwest",
+        "https://silverstemcannabis.com/dispensaries/Littleton-Denver-South",
+        "https://silverstemcannabis.com/dispensaries/Fraser-Winter-Park-Area",
+        "https://silverstemcannabis.com/dispensaries/Nederland-Boulder-Area"
+    ],
+    "url": "https://silverstemcannabis.com/loyalty-program"
+}
+</script>

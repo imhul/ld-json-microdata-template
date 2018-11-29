@@ -1,0 +1,495 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "name": "Indica Strains",
+    "description": "The high quality indica strains makes you relaxed and social. Great for relaxation, stress relief, and couchlock.",
+    "itemListElement": [
+        /* Product #1 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "The sweet flavors of fresh blueberries combine with relaxing effects to produce a long-lasting sense of euphoria. Many medical patients appreciate Blueberry for its ability to suppress pain and relieve stress, while connoisseurs and growers admire the strain for its colorful hues and THC content.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/6f/23/0caccdd9f94ab523a97d96f122954d9d.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Blueberry",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/silver-stem-blueberry-1088"
+            },
+            "position": "1",
+            "sku": "Blueberry",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/silver-stem-blueberry-1088",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #1 end */
+        /* Product #2 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "DC will tease your senses with robust purple and orange flowers. This sativa and indica hybrid ensures a euphoric high that levels out into a pleasant sedative experience. Offers the sweet and sour earthy smell and taste.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/99/5b/d038b592c8cd0c9901e0a7b6213eea1e.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Deep Chunk",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/deep-chunk"
+            },
+            "position": "2",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Mike",
+                    "datePublished": "2018-02-08",
+                    "description": "My favourite one!",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.9",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Deep Chunk",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/deep-chunk",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #2 end */
+        /* Product #3 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "A cross between Sensi Hash Plant and Afghani produces a truly old-school indica hybrid. The blissful, tranquilizing euphoria and rich, acrid hash flavor with hints of pine are sure to please lovers of classic indica strains.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/72/31/9ce8e9ebe8a441f194c35be57d5c786f.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Grimmdica",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/grimmdica-1092"
+            },
+            "position": "3",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Mike",
+                    "datePublished": "2017-09-15",
+                    "description": "True weed for those who enjoy that pungent hash smell and buzzin high",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Grimmdica",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/grimmdica-1092",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #3 end */
+        /* Product #4 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. The high of this strain is very clear, energetic and devastatingly psychoactive, the taste of a sweet landrace sativa. Above-average yields of crystal covered buds with tropical fruit aromas.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/bd/b9/27c60e6dc3eeac4bf4a226199e1261ae.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Higgs Boson",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/higgs-boson-1094"
+            },
+            "position": "4",
+            "sku": "Higgs Boson",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/higgs-boson-1094",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #4 end */
+        /* Product #5 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Kosher Kush has a dark green body with orange highlights. The earthy aroma is accompanied with sedative body effect. Thanks to its Kush genetics, this strain is perfect for patients with sleeping issues and pain management.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/c5/4f/bf1aa10d7dfca90f857e7faa37de52c2.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Kosher Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/kosher-kush"
+            },
+            "position": "5",
+            "sku": "Kosher Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/kosher-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #5 end */
+        /* Product #6 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Kosher Kush has a dark green body with orange highlights. The earthy aroma is accompanied with sedative body effect. Thanks to its Kush genetics, this strain is perfect for patients with sleeping issues and pain management.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/e7/c1/e2a808d7482a1734cf455b0c23d13b58.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Kosher Kush Kief | Indica 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/kosher-kush-kief-indica-1g-4467"
+            },
+            "position": "6",
+            "sku": "Kosher Kush Kief | Indica 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/kosher-kush-kief-indica-1g-4467",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #6 end */
+        /* Product #7 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "When people speak of purple cannabis, they are talking about our Purple Kush. Being a pure indica, it's a very sedative and calming flower. This strain is perfect for the night time user or the patient dealing with chronic pain.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/b8/c2/ee054e2ca96312a207b3e57d0036761b.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Purple Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/purple-kush"
+            },
+            "position": "7",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Jackson",
+                    "datePublished": "2017-01-11",
+                    "description": "Got 1/8 to try it out last week. What can I say. Great smell and look. Not too strong but not weak either. Give it a shot!",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.3",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Purple Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/purple-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #7 end */
+        /* Product #8 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "The essence of Purple Urkle is a blend of skunk, berry, and fresh grapes. Its indica effects are deeply relaxing, sleep-inducing, and a great option for full-body pain relief. The short onset of effects make it a perfect nighttime strain for those who suffer from insomnia.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/dc/c4/56dac17ba95a96368dacae7d73eda953.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Purple Urkle",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/purple-urkle-1102"
+            },
+            "position": "8",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Elsydro",
+                    "datePublished": "2018-02-17",
+                    "description": "Silverstem’s Purple Erkle, some of the Prettiest buds I’ve seen in the Denver area, so frosty and just beautiful, the taste is your typical purple erkle, nothing new but man they do it right!!! This is what Purp Erkle should taste like, the terpenes are spot on, lovely berries with hints of pine, and you grind the buds you see the dark hues of the buds greens, reds, purples and blacks! This is my girlfriend/fiancés number one go to strain, as the ceiling isn’t there, tolerance seems to not be built up easily on this strain, pain relief and insomnia relief are excellent this is your typical Afghani squat, greasy, berries and pine such a classic staple and it’s clear why! Silverstem delivers clean meds, that you can taste the terps, they really do this strain justice, they care and it shows!!!!",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.7",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Purple Urkle",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/purple-urkle-1102",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #8 end */
+        /* Product #9 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Bred with genetics from the very popular OG Kush, True OG is potent enough for mellow, lasting effects combined with a more focused head high. The flowers have a pungent, crisp citrus and evergreen scent.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/38/82/4e1af586d5243d27fe21cec5c9156d03.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "True OG",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/true-og-1106"
+            },
+            "position": "9",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Elsydro",
+                    "datePublished": "2018-02-14",
+                    "description": "This is the funkiest smelling strain! I love it it only gets better the longer it’s cured!! Lovely trichome development, I wish I had a clone of this as this is one of my top 5 all time favorite strains, and they knock it out of the park every grow!!!! On this strain I’ve yet to see any seeds, out of the Purp Erkle out of the multiple ounces my girlfriend and I get we’ve found 2-3 seeds, same for the OG Kush, none yet for this strain, guess I’ll keep buying till I get one of them keeper tokens, lol this is the best bud in Denver!!!!!!",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "True OG",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/true-og-1106",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #9 end */
+        /* Product #10 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. Colin OG from Willie's Reserve",
+            "image": "https://api.mmjitsu.com/storage/thumbs/cb/4f/4904de3446242eb962affa1c30610e14.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "WR Colin OG",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/willies-reserve-colin-og"
+            },
+            "position": "10",
+            "sku": "WR Colin OG",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/willies-reserve-colin-og",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #10 end */
+        /* Product #11 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "",
+            "image": "https://api.mmjitsu.com/storage/thumbs/e5/a5/23a680e82ed56464fb2fec92b502de7b.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Willie's Reserve Purple OG | Indica",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/indica/willies-reserve-purple-og-indica-2990"
+            },
+            "position": "11",
+            "sku": "Willie's Reserve Purple OG | Indica",
+            "url": "https://silverstemcannabis.com/cannabis-products/indica/willies-reserve-purple-og-indica-2990",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        }
+        /* Product #11 end */
+    ],
+    "numberOfItems": "11",
+    "url": "https://silverstemcannabis.com/cannabis-products/indica"
+}
+</script>

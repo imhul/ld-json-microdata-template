@@ -1,0 +1,188 @@
+<script type="application/ld+json"> 
+{
+    "@context": "http://www.schema.org",
+    "@type": [
+        "Pharmacy",
+        "CollectionPage"
+    ],
+    "name": "Silver Steam Specials",
+    "url": "https://silverstemcannabis.com/specials",
+    "inLanguage": "en-US",
+    "mainEntityOfPage": "https://silverstemcannabis.com/",
+    "logo": "https://silverstemcannabis.com/uploads/gallery/2018/11/4473e7f3fed497bb0e3689f46dde2786/5be1720225246207594768.png",
+    "sameAs": [
+        "https://plus.google.com/+SilverStemFineCannabisDenverSWDispensary",
+        "https://twitter.com/silver_stem",
+        "https://www.facebook.com/SilverStemCo/",
+        "https://www.instagram.com/silverstemdispensaries"
+    ],
+    "image": "https://silverstemcannabis.com/uploads/gallery/2018/08/3139fbf5a2e6af7726dd4819057266c2/5b7fbfee3d4c9365988239.jpeg",
+    "description": "Cannabis menu medical recreational dispensaries Colorado Oregon",
+    "telephone": "+810(303) 720-627-5091",
+    "priceRange": "7-60$",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1086 W Littleton Blvd",
+        "addressLocality": "Littleton",
+        "addressRegion": "Colorado",
+        "postalCode": "80120",
+        "addressCountry": "USA"
+    },
+    "significantLinks": [
+        "https://silverstemcannabis.com/specials/sale",
+        "https://silverstemcannabis.com/specials/giveaway",
+        "https://silverstemcannabis.com/specials/golden-ounce",
+        "https://silverstemcannabis.com/specials/vendorday",
+        "https://silverstemcannabis.com/specials/shatterday",
+        "https://silverstemcannabis.com/specials/half-ounce-flower-special",
+        "https://silverstemcannabis.com/specials/noatm",
+        "https://silverstemcannabis.com/specials/order-now",
+        "https://silverstemcannabis.com/loyalty-program"
+    ],
+    "aggregateRating": {
+        "@context": "http://www.schema.org",
+        "@type": "aggregateRating",
+        "name": "Silver Stem Specials Page Rating",
+        "reviewCount": 341,
+        "ratingValue": 94,
+        "bestRating": 100,
+        "worstRating": 1
+    },
+    "mainContentOfPage": [
+        {
+            "@context": "http://schema.org",
+            "@type": [ "ItemList", "WebPageElement" ],
+            "url": "https://silverstemcannabis.com/specials",
+            "numberOfItems": "9",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/sale",
+                        "@type": "CollectionPage",
+                        "name": "OZ Flower Sale",
+                        "url": "https://silverstemcannabis.com/specials/sale",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Buy select strains for $89/Oz or $99/Oz",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/02/9d9a12bf94834fc9bbe65964cb2cbefd/5a7af3229fb56107606413.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/giveaway",
+                        "@type": "CollectionPage",
+                        "name": "Win a $300 Gift Voucher and More",
+                        "url": "https://silverstemcannabis.com/specials/giveaway",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "10 ways to enter the giveaway - pick yours",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/11/d9a228fd5575016f9f907dbc7f779299/5be5b82f6ca86867095556.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/golden-ounce",
+                        "@type": "CollectionPage",
+                        "name": "Golden Ounce",
+                        "url": "https://silverstemcannabis.com/specials/golden-ounce",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Get Your Treasure",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/01/35bc7f105943528061d76572953196fa/5a687d093d1a3536330931.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/vendorday",
+                        "@type": "CollectionPage",
+                        "name": "Hybrid",
+                        "url": "https://silverstemcannabis.com/specials/vendorday",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Cannabis Hybrid Strains",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/11/286a3c16a90ce252579a4893aa03a632/5bfd866c346b4889471340.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 5,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/shatterday",
+                        "@type": "CollectionPage",
+                        "name": "Concentrates",
+                        "url": "https://silverstemcannabis.com/specials/shatterday",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Variety of meticulously selected concentrates including wax, shatter, resin, oil, and others",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/12/febb783a89d9fc108158bbba931defd7/5a27d7be713a2144020783.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 6,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/half-ounce-flower-special",
+                        "@type": "CollectionPage",
+                        "name": "Marijuana Edibles",
+                        "url": "https://silverstemcannabis.com/specials/half-ounce-flower-special",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Best edibles from handpicked manufacturers – enjoy drinks, confectionery, baked products, lollipops, and much more",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/02/fdbc4d30476855ee4f12a8b40de07fb8/5a8fc2db56947266226447.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 7,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/noatm",
+                        "@type": "CollectionPage",
+                        "name": "Vape",
+                        "url": "https://silverstemcannabis.com/specials/noatm",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Vaporizers and cartridges filled with the finest flower out there",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/01/ed9849d5bfbbbe90decb6d23cc94c65e/5a61f44af3501882821796.jpeg"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 8,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/specials/order-now",
+                        "@type": "CollectionPage",
+                        "name": "Cannabis Topicals",
+                        "url": "https://silverstemcannabis.com/specials/order-now",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "For those who want to enjoy cannabis through application of salves, lotions, creams, skin patches and massage oils",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2017/11/b5a6a381b0273db510e6552d472cb11b/59fc5d877a23e053865680.png"
+                    }
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 9,
+                    "item": {
+                        "@id": "https://silverstemcannabis.com/loyalty-program",
+                        "@type": "CollectionPage",
+                        "name": "Apparel & Accessories",
+                        "url": "https://silverstemcannabis.com/loyalty-program",
+                        "inLanguage": "en-US",
+                        "mainEntityOfPage": "https://silverstemcannabis.com/specials",
+                        "description": "Everything you need for consuming cannabis – the best rigs, torches, hemp wicks, lighters, gr",
+                        "image": "https://silverstemcannabis.com/uploads/gallery/2018/06/e8f10c0530391f2777e224035bd67b5b/5b2ba45855ab9303946705.jpeg"
+                    }
+                }
+            ]
+        }
+    ]
+}
+</script>

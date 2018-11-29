@@ -1,0 +1,1208 @@
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "name": "Hybrid Strains",
+    "description": "Hybrids combine and often have a balance of both Indica and Sativa characteristics.",
+    "itemListElement": [
+        /* Product #1 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Big Widow is a nearly 50/50 Hybrid that is sure to deliver a satisfying blend of euphoria, body high, and energy. A cross between Big Bud and White Widow, this smoke is guaranteed to have you in your prime stoney state. With the unique parents, this bud is excellent for treating a vast variety of symptoms, especially depression.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/db/6b/3ad55e226aba9d70b273e192bc887993.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Big Widow",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086"
+            },
+            "position": "1",
+            "sku": "Big Widow",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-stem-big-widow-1086",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #1 end */
+        /* Product #2 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.1",
+                "reviewCount": "4"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Our Blue Dream phenotype produces an Indica-like high without the heavy sedative effect. The sweet berry aroma and heavy trichome production make it a top rated strain in the cannabis community.",
+            "image": "https://api.mmjitsu.com/storage/images/22/44/b666cbc66cfe22653a4209f23dbdc390.jpeg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Blue Dream",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream"
+            },
+            "position": "2",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Ellie",
+                    "datePublished": "2011-04-01",
+                    "description": "The lamp burned out and now I have to replace it.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Lucas",
+                    "datePublished": "2011-03-25",
+                    "description": "Great microwave for the price. It is small and fits in my apartment.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Blue Dream",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #2 end */
+        /* Product #3 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Blue Dream is a 60/40 hybrid that produces an Indica dominant high without the sedation. A cross of Blueberry and Super Silver Haze provides a sweet berry and mild citrus aroma from the terpene Limonene and heavy trichome production. Blue Dream offers a relaxing body high and an active hazy mind.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/9a/e0/b2044018b6430fdba92ac3858a66af97.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Blue Dream Kief | Indica-Hybrid 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream-kief-indicahybrid-1g-4447"
+            },
+            "position": "3",
+            "sku": "Blue Dream Kief | Indica-Hybrid 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/blue-dream-kief-indicahybrid-1g-4447",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #3 end */
+        /* Product #4 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. Chemdawg has developed quite the name for itself over the years. Between its mysterious origin, ambiguous genetics, and the plethora of successful crosses the strain has produced, Chemdawg has practically secured itself a permanent place in the cannabis hall of fame. The original source of powerhouse strains like Sour Diesel and OG Kush, Chemdawg is known for its distinct, diesel-like aroma. Pungent and sharp, you’ll be able to smell this hybrid from a mile away. Cannabis newbies be warned: Chemdawg tends to be very potent. Depending on grow conditions, this strain tends to have extremely high THC levels. Consumers can expect to have a very cerebral experience, coupled with a strong heavy-bodied feeling.",
+            "image": "https://api.mmjitsu.com/storage/images/22/44/b666cbc66cfe22653a4209f23dbdc390.jpeg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Chem Dawg",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/chem-dawg"
+            },
+            "position": "4",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Jackson CO",
+                    "datePublished": "2017-09-03",
+                    "description": "Nice.",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Chem Dawg",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/chem-dawg",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #4 end */
+        /* Product #5 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. This sativa-dominant hybrid is best known for its potent cerebral high, sweet fruity flavors, and epic yields. Cindy’s effects are usually described as dreamy, euphoric, and uplifting.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/5f/0d/bac003213ab0442c3d1eb8cfec21d736.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Cinderella 99",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cinderella-99-1090"
+            },
+            "position": "5",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Mary",
+                    "datePublished": "2017-09-15",
+                    "description": "Doesnt mess with my work and stuff. Gives me a cool chill. Great for day time use. Would recommend to anyone who loves smoking on the go",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Cinderella 99",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cinderella-99-1090",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #5 end */
+        /* Product #6 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Cotton Kandy Kush is a delicious flower with sweet, berry flavors and a floral scent. The euphoric effects combined with the stress relieving properties leave the consumer in a positive mood.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/19/24/4378385ab4ce6b34d0f5ca554febaff1.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Cotton Kandy Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cotton-candy-kush"
+            },
+            "position": "6",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Al",
+                    "datePublished": "2017-05-17",
+                    "description": "My personal favorite!",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Cotton Kandy Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cotton-candy-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #6 end */
+        /* Product #7 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Cotton Kandy Kush is a savory sativa dominate hybrid. Cotton Kandy is Lavender and Power Plant cross and has a pungently sweet smell with floral notes from the terpenes Limonene and Myrcene. This strain offers an active mind with stress relieving traits.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/ea/3e/b72a046d3485a9b17ebb5b092e08620c.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Cotton Kandy Kush Kief | Sativa-Hybrid 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cotton-kandy-kush-kief-sativahybrid-1g-4453"
+            },
+            "position": "7",
+            "sku": "Cotton Kandy Kush Kief | Sativa-Hybrid 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/cotton-kandy-kush-kief-sativahybrid-1g-4453",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #7 end */
+        /* Product #8 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Dominoff #7 is a unique strain. Its orange hairs are eye-catching and its skunky, sweet smell fills the nasal passages. The effects of this strain are very cerebral, increasing hunger and can be felt behind the eyes.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/2f/18/4823c0327bdd9594836bf00a3ea3e7c2.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Dominoff#7",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/dominoff-7"
+            },
+            "position": "8",
+            "sku": "Dominoff#7",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/dominoff-7",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #8 end */
+        /* Product #9 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Harambe is a 50/50 hybrid from SIlver Stem's grow.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/19/7b/c1f50d3ca1ca28379968534778bdeb20.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Harambe",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harambe-1156"
+            },
+            "position": "9",
+            "sku": "Harambe",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harambe-1156",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #9 end */
+        /* Product #10 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Developed in Colorado as an homage to the gorilla that turned the internet upside down, Harambe is a potent hybrid created by crossing the instant classic Gorilla Glue #4 cut with Critical Skunk and Black Fire resulting in a Sativa leaning, heady hybrid. Pipes out for Harambe, Colorado.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/b0/b2/488834685d959b8426dd31a52bf83bdb.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Harambe Kief | Sativa-Hybrid 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harambe-kief-sativahybrid-1g-4463"
+            },
+            "position": "10",
+            "sku": "Harambe Kief | Sativa-Hybrid 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harambe-kief-sativahybrid-1g-4463",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #10 end */
+        /* Product #11 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Harlequin GDP is a CBD-dominant cross of Harlequin and Granddaddy Purple. This earthy, slightly sweet sativa-dominant hybrid has been seen with a 3:1 CBD/THC ratio, slotting it firmly as a medicinal strain while offering enough THC whizbang for recreational cannabis consumers.",
+            "image": "/img/prev/no_card_prev.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Harlequin GDP | Sativa",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harlequin-gdp-sativa-2950"
+            },
+            "position": "11",
+            "sku": "Harlequin GDP | Sativa",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/harlequin-gdp-sativa-2950",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #11 end */
+        /* Product #12 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "3"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Introducing our most powerful CBD strain in the line-up. Incredible Power really is incredible. This three way cross, bred and grown strictly to provide the highest amounts of CBD possible provides far ranging, outstanding medicinal benefits. Incredible Power tests at a 1:1 THC/CBD ratio, hovering around 10-13%. A LOT of CBD! The extremely high CBD percentage will provide relief from chronic pain, inflammation, insomnia, migraines, mood swings, and muscle spasms. Be ready to start with a slow building head high that will seep its way into the rest of your body providing relief and relaxation that will gently lull you into a wonderful sleep.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/b7/ed/58c2cd79f19144a7672e65e30e2f0342.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Incredible Power",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/incredible-power-593"
+            },
+            "position": "12",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Jeff",
+                    "datePublished": "2018-01-26",
+                    "description": "Great for pain.. and stress for sure",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.8",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Mad Max",
+                    "datePublished": "2017-01-26",
+                    "description": "This is my favorite strain for day time use. Mellow, smooth, and helps with the pain. Thoug, leaving you in working condition :)",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.6",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Wastafarian",
+                    "datePublished": "2017-02-28",
+                    "description": "If you have never tried a 1-1, for recreation or otherwise. I can not suggest this strain enough. A 3-way of AC/DC X Omrita X Blue Power cross. The CBD and THC matching, helps with so much more than i could have anticipated. I struggle with bi-polar a bit more than i should. And with this it seems i have a much harder time getting mad than i do thinking things out. All without being stuck in one area from the heavy-body 'High' that is typically associated with indica dominate genetics.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.6",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Incredible Power",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/incredible-power-593",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #12 end */
+        /* Product #13 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Jack Flash offers an earthy citrus aroma and active cerebral effects. Its onset is almost immediate, which makes it great for medical patients in need of quick relief.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/fb/d7/7a2a053b633264e197fa7351b472a6ca.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Jack Flash",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/jack-flash"
+            },
+            "position": "13",
+            "sku": "Jack Flash",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/jack-flash",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #13 end */
+        /* Product #14 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "One of the most decorated and popular strains Silver Stem has to offer. Awarded as The Best Medical Sativa by High Times, Jillybean has a lot to offer medicinally and recreationally. JB has subtle orange, mango, and apple scents and tastes!",
+            "image": "/img/prev/no_card_prev.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Jillybean",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/jillybean"
+            },
+            "position": "14",
+            "sku": "Jillybean",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/jillybean",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #14 end */
+        /* Product #15 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "2"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Kens Kush is a potent hybrid cannabis strain bred by Ken Estes that crosses his famous Granddaddy Purple with the equally esteemed OG Kush and Sour Diesel. Together these parents pass on a flavor profile of sweet berries, sour skunk, and grassy earth.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/63/41/a08d012dc557b2c8aa0ad94964978cf9.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Ken's Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/kens-kush"
+            },
+            "position": "15",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "ELSyDro",
+                    "datePublished": "2018-06-03",
+                    "description": "Ken’s Kush is very heady indica, lovely strain with a sativa high on indica buds, this strain causes me personally a slight bit of anxiety if over consumed, but the buds are very gorgeous! A sight too behold, excellent evening time strain, such a lovely terpene content and trichrome development is quite lovely perfect for some dry soft! Such lovely purple, red and orange hairs such beautiful buds",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Mike",
+                    "datePublished": "2017-11-01",
+                    "description": "Not much to say - you gotta just try it. Trust me.",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Ken's Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/kens-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #15 end */
+        /* Product #16 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "We are proud to introduce Lemon Skunk, one of our premier strains here at Silver Stem. A direct descendant of the famous Skunk #1, our Lemon Skunk retains the iconic smell that earned the original its name, with the added bonus of a hint of lemony zest. Let the sweet skunky aroma and tightly packed deep purple and orange flowers draw you in for an uplifting, creative, and energetic experience.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/8d/a9/0db23f5db33ceeba814523e7b89c5851.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Lemon Skunk Kief | Sativa-Hybrid 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/lemon-skunk-kief-sativahybrid-1g-4471"
+            },
+            "position": "16",
+            "sku": "Lemon Skunk Kief | Sativa-Hybrid 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/lemon-skunk-kief-sativahybrid-1g-4471",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #16 end */
+        /* Product #17 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Medijuana's frosty flowers are truly breathtaking. The sweet aroma is carried with a heavy-hitting Indica feeling that sweeps across the body. This strain is not recommended for beginners due to its high THC content.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/31/d9/93143b4fa4da0c935ff2b40814cef132.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Medijuana",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/medijuana"
+            },
+            "position": "17",
+            "sku": "Medijuana",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/medijuana",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #17 end */
+        /* Product #18 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Nepal Kush or Nepali OG is a very strong and potent indica-dominant hybrid of Hindu Kush x Nepal IBL. This fast acting strain has a combination of fruity, spicy, sour, earthy and piney flavors and results in a strong body buzz accompanied by a serious case of couch lock.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/1b/7a/279b1c27a734ab5534add6e15f9b6591.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Nepali Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/nepal-kush-nepali-og-1096"
+            },
+            "position": "18",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Kalie",
+                    "datePublished": "2017-07-11",
+                    "description": "I like it",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Nepali Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/nepal-kush-nepali-og-1096",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #18 end */
+        /* Product #19 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "This hybrid has a mixture of hash and grapes flavors, with a hint of strawberry. Nerds may be a good choice for patients with anxiety, stress and mood disorders. It's light bodily effects may ease some aches and pains as well as nausea.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/5b/e1/8d2abd3b28c8628c87be094775200af7.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Nerds",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/nerds-1098"
+            },
+            "position": "19",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Darrion",
+                    "datePublished": "2017-11-02",
+                    "description": "Straight Pressure....very tasty....",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Nerds",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/nerds-1098",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #19 end */
+        /* Product #20 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "OG Kush is a very unique (and classic) Indica strain. It delivers the relaxation and body buzz that one comes to expect from an Indica, but unlike most, it also provides an extremely euphoric but clear-headed high like a top-shelf Sativa. This flower is great for insomnia, depression, pain, and a kick ass high.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/a5/ce/e5e669e78c02155a6566eec3c214674f.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "OG Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/og-kush-1100"
+            },
+            "position": "20",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Elsydro",
+                    "datePublished": "2018-03-04",
+                    "description": "Silver stems OG Kush is a beast!!! Such lovely aroma and the flavour is there, Silverstem has the dankest dank in Colorado hands down for dispensary grown this is as good as it gets, no overstressed plants here; growing done right, and organically, #dontpanicitsorganic If OG Kush is your thang, you like overly kushy flavour with a heavy body stone but the mind high isn’t missing either, love this strain and love their cut it shines when it’s fresh the flavour is so rich, trichrome development is impressive and with a slight cure will lead to so much frost it’ll cover your kief collector, if you can keep it that long! I’m not sure if they’ve got is maybe a ghost cut or who knows but it’s dank , this cut is definitely indica dominate, similar to their True OG, not as heavy of an og or indica as the True OG mind you, it’s more for the daytime for me the True OG for night, a bit more Sativa end for this og Kush, absolutely delicious, pine, Earth, hash, and Kush love it so much!",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "OG Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/og-kush-1100",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #20 end */
+        /* Product #21 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "OG Kush is a very unique (and classic) Indica strain. It delivers the relaxation and body buzz that one comes to expect from an Indica, but unlike most, it also provides an extremely euphoric but clear-headed high like a top-shelf Sativa. This flower is great for insomnia, depression, pain, and a kick ass high.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/b0/c3/967b2b7fe7a6026d9473148681da2d97.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "OG Kush Kief | Indica-Hybrid 1g",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/og-kush-kief-indicahybrid-1g-4483"
+            },
+            "position": "21",
+            "sku": "OG Kush Kief | Indica-Hybrid 1g",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/og-kush-kief-indicahybrid-1g-4483",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #21 end */
+        /* Product #22 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Silver Pearl is bred through a three-way cross of Early Pearl, Skunk, and Northern Lights #5. The resulting sativa dominant hybrid is potent and has strong mental e ects that can verge on psychedelic, making it too strong for some users or those who want to slow things down mentally.",
+            "image": "/img/prev/no_card_prev.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Silver Pearl | Sativa-Hybrid",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-pearl-sativahybrid-2954"
+            },
+            "position": "22",
+            "sku": "Silver Pearl | Sativa-Hybrid",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/silver-pearl-sativahybrid-2954",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #22 end */
+        /* Product #23 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "Snowcap's robust, large flowers make this plant a beautiful one. Its lemony, menthol scent will lead to a cerebral, creative happiness, and a case of the giggles. This strain is a must have on your shelf.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/0f/80/b69bdacc98d3e1a44d2b66ccf8b4189e.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "SnowCap",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/snow-cap"
+            },
+            "position": "23",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Trevor",
+                    "datePublished": "2017-11-05",
+                    "description": "This stuff is solid!",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.9",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "SnowCap",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/snow-cap",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #23 end */
+        /* Product #24 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "reviewCount": "1"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "A unique Silver Stem indica dominant hyrbid (Snowcap x Purple Urkle).",
+            "image": "https://api.mmjitsu.com/storage/thumbs/51/13/3b4e5f5e57d0f2bd28fb1f165cc06a8d.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Snurkle",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/snurkle-504"
+            },
+            "position": "24",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Elsydro(Spencer)",
+                    "datePublished": "2018-03-30",
+                    "description": "This I would call a very heady Indica, and honestly all indices could use some head high too them, and I’m an indica lover, so please don’t take me wrong, Silverstem has taken Purple Urkle and crossed it with Snowcap and created something masterful... So you’re left with the love child of the two, bud is a gorgeous purple, red, and orange hairs, the smoke is most definitely pleasant, kind of hard to place the flavor but where the snowcap would give me anxiety and paranoia after even a bowl, smoked two bowls, and I’m feeling GREAT!!! I’m a daily dabber so I’ve got an abnormally high tolerance so please be ware if you’re a newer smoker, it might crush at a whopping 26.5% THC-A cbd-a .53%. So if you’re new too smoking please keep that in mind, I medicate for pain, anxiety, ptsd, and it super effective and efficient for me for all of these issues. I had a headache before smoking and I can say I feel no pain at the moment. Oh and did I describe how the bud was literally covered in trichromes and just gorgeous buds!!!!!! In the flavor I get a light lemon haze with an earthy aftertaste, although I have a feeling if it was vaporized a whole plethora of flavors would/will abound, this is the next method I’ll try will be vaporization! I’ve found a new favorite strain at Silverstem, one other than their KILLER OG cuts, like their true and OG kush, this is a nice hybrid, with both the positives of both parents and seeming to me at this moment having none of the negatives like paranoia and anxiety I usually would get from their Snowcap, which is what gives this hybrid it’s locely flavor from, and the P Urkle obviously contributed the bud color, and some jars and their massive trichrome production known from their purple urkle...",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "5",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Snurkle",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/snurkle-504",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        },
+        /* Product #24 end */
+        /* Product #25 */
+        {
+            "@type": [
+                "ListItem",
+                "Product"
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4",
+                "reviewCount": "2"
+            },
+            "brand": {
+                "@type": "Brand",
+                "name": "Silver Stem"
+            },
+            "description": "TEMPORARILY UNAVAILABLE. PLEASE SELECT A DIFFERENT STRAIN. Sour Kush is known for its day time pain relief. It provides consumers with an uplifting, euphoric feeling without overwhelming sedative effects. Be prepared to laugh, because this sativa dominant strain will provide plenty of warm sensations.",
+            "image": "https://api.mmjitsu.com/storage/thumbs/e8/1d/2af7db2d38fc8f5a8cd1b940c1392bce.jpg",
+            "manufacturer": {
+                "@type": "Organization",
+                "legalName": "Silver Stem"
+            },
+            "name": "Sour Kush",
+            "offers": {
+                "@type": "Offer",
+                "areaServed": "Colorado",
+                "availability": "http://schema.org/InStock",
+                "url": "https://silverstemcannabis.com/cannabis-products/hybrid/sour-kush"
+            },
+            "position": "25",
+            "review": [
+                {
+                    "@type": "Review",
+                    "author": "Matthew",
+                    "datePublished": "2015-12-13",
+                    "description": "Very Indica Dominant",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.4",
+                        "worstRating": "1"
+                    }
+                },
+                {
+                    "@type": "Review",
+                    "author": "Kylene",
+                    "datePublished": "2015-11-25",
+                    "description": "Love this strain, very tasty and very balanced head high. not overwhelming",
+                    "name": "Value purchase",
+                    "reviewRating": {
+                        "@type": "Rating",
+                        "bestRating": "5",
+                        "ratingValue": "4.3",
+                        "worstRating": "1"
+                    }
+                }
+            ],
+            "sku": "Sour Kush",
+            "url": "https://silverstemcannabis.com/cannabis-products/hybrid/sour-kush",
+            "weight": [
+                "1g",
+                "1/8oz",
+                "1/4oz",
+                "1/2oz",
+                "1oz"
+            ]
+        }
+        /* Product #25 end */
+    ],
+    "numberOfItems": "25",
+    "url": "https://silverstemcannabis.com/cannabis-products/hybrid"
+}
+</script>
